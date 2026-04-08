@@ -291,11 +291,21 @@ nav {
     margin-top: 0;
     font-size:32px;
 }
+.section__title--projects {
+    padding-bottom: 20px;
+    margin-bottom: 12px;
+    padding-top: 12px;
+    margin-top: 0;
+    font-size: 32px;
+}
 
 /* PROJECTS */
 .project {
     margin-bottom: 135px;
     margin-top: 50px;
+}
+#projects .container {
+    padding: 0;
 }
 .project:last-child {
     margin-bottom: 40px;
